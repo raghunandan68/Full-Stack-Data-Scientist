@@ -1,0 +1,8 @@
+p1=int(input("Enter price of Item 1 : "))
+q1=int(input("Enter quantity of Item 1 : "))
+p2=int(input("Enter price of Item 2 : "))
+q2=int(input("Enter quantity of Item 2 : "))
+p3=int(input("Enter price of Item 3 : "))
+q3=int(input("Enter quantity of Item 3 : "))
+total_bill=(p1*q1)+(p2*q2)+(p3*q3)
+print("Total bill is : ",total_bill)

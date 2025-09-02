@@ -1,0 +1,7 @@
+fn=int(input("Enter the first number : "))
+sn=int(input("Enter the second number : "))
+print("Addition = ",fn+sn)
+print("Subtraction = ",fn-sn)
+print("Multiplication = ",fn*sn)
+print("Division = ",fn/sn)
+print("Modulus = ",fn%sn)
